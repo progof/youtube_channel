@@ -1,9 +1,6 @@
-# #0 Introduction to C++ Programming
+# #1 What are operators in C++?
 
 ![](https://youtu.be/3YjDQDGCgw8)
 
-[![Introduction to C++ Programming](https://i.imgur.com/2C8q0SJ.jpg)](https://youtu.be/3YjDQDGCgw8 "Introduction to C++ Programming")
+[![What are operators in C++?](https://i.imgur.com/2C8q0SJ.jpg)](https://youtu.be/3YjDQDGCgw8 "What are operators in C++?")
 
-```bash
-g++ hello.cpp -o hello && ./hello
-```
