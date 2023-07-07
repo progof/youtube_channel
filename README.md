@@ -7,3 +7,4 @@ The channel was created so that I could absorb into the English-speaking environ
 - #2  What are Variables in C++?: https://github.com/progof/youtube_channel/tree/main/2_What_are_Variables_in_Cpp
 - #3 Comments in C++: https://github.com/progof/youtube_channel/tree/main/3_Comments_in_Cpp
 - #4 Variables in C++: https://github.com/progof/youtube_channel/tree/main/4_Variables_in_Cpp
+- #5 Custom data entry in C++: https://github.com/progof/youtube_channel/tree/main/5_Custom_data_entry_in_Cpp
