@@ -1,6 +1,6 @@
 # #6 While and do/while loops in Cpp
 
-Link to the video: https://youtu.be/zW9wgSh8Eiw
+Link to the video: https://youtu.be/cfiClPsY5zw
 
-[![While and do/while loops in Cpp](https://i.imgur.com/Zv4ri6N.jpg)](https://youtu.be/zW9wgSh8Eiw "While and do/while loops in Cpp")
+[![While and do/while loops in Cpp](https://i.imgur.com/7XYXCEi.png)](https://youtu.be/cfiClPsY5zw "While and do/while loops in Cpp")
 
